@@ -1,2 +1,2 @@
 # scratch_bolo
-Scratch Aufgabe
+1. Scratch Aufgabe für Informatik Unterricht
